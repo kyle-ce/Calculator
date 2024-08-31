@@ -1,1 +1,3 @@
 # Calculator
+
+![Screenshot](image.png)
